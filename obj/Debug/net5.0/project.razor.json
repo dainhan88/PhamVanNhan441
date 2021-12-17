@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\PVN0441s\\Edit.cshtml",
+      "TargetPath": "Views\\PVN0441s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\CompamyPVN441s\\Details.cshtml",
       "TargetPath": "Views\\CompamyPVN441s\\Details.cshtml",
       "FileKind": "mvc"
@@ -15636,6 +15641,16 @@
     {
       "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\CompamyPVN441s\\Edit.cshtml",
       "TargetPath": "Views\\CompamyPVN441s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\PVN0441s\\Details.cshtml",
+      "TargetPath": "Views\\PVN0441s\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\PVN0441s\\Index.cshtml",
+      "TargetPath": "Views\\PVN0441s\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15659,6 +15674,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\PVN0441s\\Create.cshtml",
+      "TargetPath": "Views\\PVN0441s\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15666,6 +15686,11 @@
     {
       "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\PVN0441s\\Delete.cshtml",
+      "TargetPath": "Views\\PVN0441s\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -13,4 +13,6 @@ using PhamVanNhan441.Models;
         }
 
         public DbSet<PhamVanNhan441.Models.CompanyPVN441> CompanyPVN441 { get; set; }
+
+        public DbSet<PhamVanNhan441.Models.PVN0441> PVN0441 { get; set; }
     }

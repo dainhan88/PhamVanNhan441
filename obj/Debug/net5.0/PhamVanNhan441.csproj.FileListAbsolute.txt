@@ -163,3 +163,8 @@ G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\PhamVanNhan441.dll
 G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\ref\PhamVanNhan441.dll
 G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\PhamVanNhan441.pdb
 G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\PhamVanNhan441.genruntimeconfig.cache
+G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\CompamyPVN441s\Create.cshtml.g.cs
+G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\CompamyPVN441s\Delete.cshtml.g.cs
+G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\CompamyPVN441s\Details.cshtml.g.cs
+G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\CompamyPVN441s\Edit.cshtml.g.cs
+G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\CompamyPVN441s\Index.cshtml.g.cs

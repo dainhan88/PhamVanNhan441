@@ -1,0 +1,33 @@
+@model PhamVanNhan441.Models.PVN0441
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Xóa</h1>
+
+<h3>Bạn Chắc Chắn muốn xóa</h3>
+<div>
+    <h4>Phạm Văn Nhân 0441</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PVNName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PVNName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PVNGender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PVNGender)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="PVNID" />
+        <input type="submit" value="Xóa" class="btn btn-danger" /> |
+        <a asp-action="Index">Quay Lại</a>
+    </form>
+</div>

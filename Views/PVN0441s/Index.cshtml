@@ -1,0 +1,41 @@
+@model IEnumerable<PhamVanNhan441.Models.PVN0441>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Phạm Văn Nhân 0441</h1>
+
+<p>
+    <a asp-action="Create">Thêm Mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PVNName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PVNGender)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PVNName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PVNGender)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PVNID">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.PVNID">Chi TIết</a> |
+                <a asp-action="Delete" asp-route-id="@item.PVNID">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
