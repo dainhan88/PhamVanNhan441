@@ -9,9 +9,11 @@ namespace PhamVanNhan441.Models
         [Key]
         [StringLength(20)]
         [Display(Name = "Mã")]
+        [Required]
         public string CompanyId { get; set; }
         [StringLength(50)]
         [Display(Name = "Tên")]
+        [Required]
         public string CompanyName { get; set; }
     }
 }

@@ -58,7 +58,7 @@ namespace PhamVanNhan441.Controllers
         {
             if (ModelState.IsValid)
             {
-                companyPVN441.CompanyName = strPro.LowerToUpper(companyPVN441.CompanyName);
+                companyPVN441.CompanyName =  strPro.LowerToUpper(companyPVN441.CompanyName);
                 _context.Add(companyPVN441);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
