@@ -15619,13 +15619,38 @@
   "RootNamespace": "PhamVanNhan441",
   "Documents": [
     {
+      "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\CompamyPVN441s\\Index.cshtml",
+      "TargetPath": "Views\\CompamyPVN441s\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\CompamyPVN441s\\Details.cshtml",
+      "TargetPath": "Views\\CompamyPVN441s\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\CompamyPVN441s\\Edit.cshtml",
+      "TargetPath": "Views\\CompamyPVN441s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\CompamyPVN441s\\Delete.cshtml",
+      "TargetPath": "Views\\CompamyPVN441s\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\NetCore\\PhamVanNhan441\\Views\\CompamyPVN441s\\Create.cshtml",
+      "TargetPath": "Views\\CompamyPVN441s\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
