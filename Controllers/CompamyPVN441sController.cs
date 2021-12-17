@@ -12,6 +12,7 @@ namespace PhamVanNhan441.Controllers
     public class CompamyPVN441sController : Controller
     {
         private readonly PhamVanNhan441DbContext _context;
+        StringProcessPVN441 strPro = new StringProcessPVN441();
 
         public CompamyPVN441sController(PhamVanNhan441DbContext context)
         {
@@ -57,6 +58,7 @@ namespace PhamVanNhan441.Controllers
         {
             if (ModelState.IsValid)
             {
+                companyPVN441.CompanyName = strPro.LowerToUpper(companyPVN441.CompanyName);
                 _context.Add(companyPVN441);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

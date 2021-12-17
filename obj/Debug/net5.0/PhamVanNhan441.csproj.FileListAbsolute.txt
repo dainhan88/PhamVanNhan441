@@ -168,3 +168,8 @@ G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\CompamyPVN441s\Delete.csh
 G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\CompamyPVN441s\Details.cshtml.g.cs
 G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\CompamyPVN441s\Edit.cshtml.g.cs
 G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\CompamyPVN441s\Index.cshtml.g.cs
+G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\PVN0441s\Create.cshtml.g.cs
+G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\PVN0441s\Delete.cshtml.g.cs
+G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\PVN0441s\Details.cshtml.g.cs
+G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\PVN0441s\Edit.cshtml.g.cs
+G:\NetCore\PhamVanNhan441\obj\Debug\net5.0\Razor\Views\PVN0441s\Index.cshtml.g.cs
